@@ -11,8 +11,7 @@ import javafx.scene.text.Text;
 
 public class MainController 
 {    
-    // Deklaration der initialen Spielerposition, der Matrix zum Speichern der belegten
-    // Felder und des Fortschritts der belegten Felder.
+    // Deklaration der benötigten models
     private GameBoardModel gameboard;
     private ProfPeanutModel player;
 
